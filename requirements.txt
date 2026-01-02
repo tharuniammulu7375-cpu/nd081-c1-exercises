@@ -5,5 +5,3 @@ numpy
 pandas
 
 
-Notice:  A new release of pip is available: 25.0.1 -> 25.3
-Notice:  To update, run: pip install --upgrade pip
