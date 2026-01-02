@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'creating-world'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6DB8A47FAFE4A059BEEBB7EEDF7713C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32233583E2044E1BBF0F44326BDCD964 }}
